@@ -1,2 +1,3 @@
 # Project-Management-System
-my 2nd project : )
+This is my project using vb.net and its features.
+This project may have many error and complications as it was a college project :)
