@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Current_pjt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard_staff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashboard_pm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Delete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Edit_Staff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exit_pjt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Help.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Join_pjt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff_info_pm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff_project_info.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="update_pjt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_prj.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prj_create.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="project_info_pm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Personal_info.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View_staff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
